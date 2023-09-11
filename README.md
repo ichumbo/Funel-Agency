@@ -8,7 +8,7 @@
 
   Funel é uma landing page de agência digital totalmente responsiva, <br />responsiva para todos os dispositivos, construída em HTML, CSS e JavaScript.
 
-  <a href="https://codewithsadee.github.io/funel-agency_landing_page/"><strong>➥ Demonstação</strong></a>
+  <a href="https://ichumbo.github.io/Funel-Agency/"><strong>➥ Demonstação</strong></a>
 
 </div>
 
