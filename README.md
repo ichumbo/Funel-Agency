@@ -1,29 +1,26 @@
 <div align="center">
-  <br />
-  <br />
   
-  <img src="./readme-images/project-logo.png" />
+  ![GitHub repo size](https://img.shields.io/github/repo-size/ichumbo/Funel-Agency)
+  ![GitHub stars](https://img.shields.io/github/stars/ichumbo/Funel-Agency?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ichumbo/Funel-Agency?style=social)
 
-  <h2 align="center">Funel - Agency landing page</h2>
+  <br />
+  <br />
 
-  Funel é uma landing page de agência digital totalmente responsiva, <br />responsiva para todos os dispositivos, construída em HTML, CSS e JavaScript.
+  <h2 align="center">Funel</h2>
 
-  <a href="https://ichumbo.github.io/Funel-Agency/"><strong>➥ Demonstação</strong></a>
+  Funel é uma loja para administração de empresas, ele é totalmente responsivo, para celulares, tablets e computadores, construído com HTML, CSS E JAVASCRIPT
+
+  <a href="https://ichumbo-funel.netlify.app"><strong>➥ Site</strong></a>
 
 </div>
 
 <br />
-<br />
 
-### Capturas de tela de demonstração
+### Demo Screeshots
 
-![Funel Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-![Funel Mobile Demo](./readme-images/mobile.png "Mobile Demo")
+![Demonstração do Blogy Desktop](./readme-images/funel-img.png)
 
-### Contato
+### Contact
 
-Se você quiser entrar em contato comigo, pode entrar em contato comigo em [Twitter](https://www.twitter.com/IanMelw).
-
-### Licença
-
-Este projeto é **de uso gratuito** e não contém nenhuma licença.
+Se você quiser entrar em contato comigo, pode entrar em contato comigo em [Linkedin](https://www.linkedin.com/in/ichumbo/).
